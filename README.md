@@ -1,5 +1,5 @@
-layout: page
-title: "About Owen"
+Layout: page
+Title: "About Owen"
 
 <img src="https://github.com/opatters0/opatters0.github.io/blob/master/OwenPointLobos.jpg" width="350" class="center">
 
