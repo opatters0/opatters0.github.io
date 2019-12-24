@@ -1,8 +1,8 @@
-Layout: page
+layout: page
 title: "About Owen"
 permalink: /about/
 
-<img src="https://github.com/opatters0/opatters0.github.io/blob/master/OwenPointLobos.jpg" width="100">
+<img src="https://github.com/opatters0/opatters0.github.io/blob/master/OwenPointLobos.jpg" width="250">
 
 Owen Patterson is an undergraduate at UC Berkeley, where his studies include economic development, housing policy, and the 
 future of automation. Prior to attending Cal, he worked with the New York State Assembly as a legislative research assistant. 
