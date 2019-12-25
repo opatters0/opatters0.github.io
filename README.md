@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"> 
+<p align="justify"> 
 Owen Patterson is an undergraduate at UC Berkeley, where his studies include economic development, housing policy, and the 
 future of automation. Prior to attending Cal, he worked with the New York State Assembly as a legislative research assistant. 
 He is currently seeking opportunities in affordable housing development, economic research, and public policy. Owen lives in 
