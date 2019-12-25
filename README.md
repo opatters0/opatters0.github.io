@@ -4,9 +4,6 @@
     <li><a href="publications">Publications</a></li>
     <li><a href="github">Source for Raw Code</a></li>
     <li><a href="about">About Me</a></li>
-    <li><a href="about/">About Me</a></li>
-    <li><a href="about.md/">About Me</a></li>
-    <li><a href="about.md">About Me</a></li>
   </ul>
 
 
