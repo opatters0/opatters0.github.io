@@ -5,7 +5,6 @@
     <li><a href="github/">Source for Raw Code</a></li>
     <li><a href="about/">About Me</a></li>
   </ul>
-</ul>
 
 
 
