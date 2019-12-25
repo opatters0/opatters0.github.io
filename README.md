@@ -1,8 +1,6 @@
-<p align="center">
-  <img width="300" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/72241103_1394164250738843_5797137622514008064_n.jpg?_nc_cat=100&_nc_ohc=qB0FTg9PROIAQmvrYRzU_fP6s-8oDV6Mh9IJzlU_bHQRQiuWI4G-pvDeg&_nc_ht=scontent-lga3-1.xx&oh=f08fba1dd25cb678c623b18f335f4c96&oe=5E6EA592">
+<p align="left">
+  <img width="300" src="https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/25531929_899450653543541_70826121351541736_o.jpg?_nc_cat=111&_nc_ohc=VUfQgxhX0nYAQnLVi3gNWhvEvRwTWAntCjcN82XETouwmMhSBCc8h3p1A&_nc_ht=scontent-lga3-1.xx&oh=7aedde4d0331a0e7b46cacdba877582f&oe=5EA180A4">
 </p>
-
-
 <p align="justify"> 
 Owen Patterson is an undergraduate at UC Berkeley, where his studies include economic development, housing policy, and the 
 future of automation. Prior to attending Cal, he worked with the New York State Assembly as a legislative research assistant. 
