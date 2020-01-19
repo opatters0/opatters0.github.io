@@ -6,8 +6,6 @@
 				      University of California, Berkeley, where <br> 
 				      he has studied a mixture of economics, <br> 
 				      public policy, and computer science since 2017.">
-
-<body>
 	<div id="header">
 		<p>Owen Patterson is an Undergradate at the <br>
 	   University of California, Berkeley, where <br> 
@@ -25,4 +23,3 @@
 			Phone: +1-845-745-5962</p>
 		</div>
 	</div>
-</body>
