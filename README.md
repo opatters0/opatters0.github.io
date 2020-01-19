@@ -2,7 +2,10 @@
 <body id="home" class="index">
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Owen Patterson is an Undergradate at the University of California, Berkeley, where he has studied a mixture of economics, public policy, and computer science since 2017.">
+    <meta name="description" content="Owen Patterson is an Undergradate at the <br>
+				      University of California, Berkeley, where <br> 
+				      he has studied a mixture of economics, <br> 
+				      public policy, and computer science since 2017.">
 
 <body>
 	<p>Owen Patterson is an Undergradate at the University of California, Berkeley, where 	he has studied a mixture of economics, public policy, and computer science since 2017.</p>
