@@ -8,11 +8,11 @@
 				      public policy, and computer science since 2017.">
 
 <body>
-	<p>Owen Patterson is an Undergradate at the <br>
+	<div id="header">
+		<p>Owen Patterson is an Undergradate at the <br>
 	   University of California, Berkeley, where <br> 
            he has studied a mixture of economics, <br> 
            policy, and computer science since 2017.</p>
-	<div id="header">
   		<ul class="main">
     			<li><a href="downloadabletools">Tools</a></li>
     			<li><a href="publications">Publications</a></li>
