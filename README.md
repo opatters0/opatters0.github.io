@@ -6,8 +6,7 @@
 				      University of California, Berkeley, where <br> 
 				      he has studied a mixture of economics, <br> 
 				      public policy, and computer science since 2017.">
-	<div id="header">
-		<p style="Margin:0; font:16px/1.25 serif:Georgia; text-align:justify>
+		<p style="Margin:2; font:16px/1.25 serif:Georgia; text-align:justify;">
 	   Owen Patterson is an Undergradate at the <br>
 	   University of California, Berkeley, where <br> 
            he has studied a mixture of economics, <br> 
