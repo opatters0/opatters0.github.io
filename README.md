@@ -12,8 +12,7 @@
            he has studied a mixture of economics, <br> 
            policy, and computer science since 2017.</p>
   		<ul class="main">
-    			<li><a href="downloadabletools">Tools</a></li>
-    			<li><a href="publications">Publications</a></li>
+    			<li><a href="Tools">Tools</a></li>
     			<li><a href="https://github.com/opatters0/"> Source for Raw Code</a></li>
   		</ul>
 	<div id="footer">
