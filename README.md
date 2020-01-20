@@ -6,7 +6,7 @@
 				      University of California, Berkeley, where <br> 
 				      he has studied a mixture of economics, <br> 
 				      public policy, and computer science since 2017.">
-		<p style="Margin:2; font:16px/1.25 serif:Times; text-align:justify;">
+		<p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
 	   Owen Patterson is an Undergradate at the <br>
 	   University of California, Berkeley, where <br> 
            he has studied a mixture of economics, <br> 
@@ -18,7 +18,8 @@
   		</ul>
 	<div id="footer">
 		<div id="contact">
-			<p><strong>For employment or other inquiries:</strong><br>
+			<p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+			<strong>For employment or other inquiries:</strong><br>
 			Email: <a href="owen.patterson@berkeley.edu">owen.patterson@berkeley.edu</a><br>
 			Phone: +1-845-745-5962</p>
 		</div>
