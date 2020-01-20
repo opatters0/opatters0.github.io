@@ -14,7 +14,7 @@
   		<ul class="main">
     			<li><a href="downloadabletools">Tools</a></li>
     			<li><a href="publications">Publications</a></li>
-    			<li><a href="github">Source for Raw Code</a></li>
+    			<li><a href="https://github.com/opatters0/"> Source for Raw Code</a></li>
   		</ul>
 	<div id="footer">
 		<div id="contact">
