@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 	<head>
 		<meta charset="iso-8859-1" />
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
