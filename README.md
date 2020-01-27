@@ -13,7 +13,6 @@
 					</div><!-- title -->
 					<div id="sitemenu-container">
 						<div id="sitemenu">
-							<h2 class="hidden">Site Navigation<a href="#page-content" rel="nofollow">[Skip]</a></h2>
 							<div id="sitemenu-content">
 								<ul>
     			<li><a href="https://github.com/opatters0/"> Source for Raw Code</a></li>
